@@ -1,0 +1,73 @@
+body{
+    background-image:url(/wallpaperflare-cropped.jpg);
+   height: 800px;
+  width: 1500px;
+    
+}
+.avt1{
+    width: 150%;
+    height: 1500px;
+    z-index: 1;
+    background-color: rgba(239, 120, 120, 0.24);
+    border-radius: 0 0 50% 50%;
+    margin: -1305px 0 0 -365px;
+    z-index: 100;
+    
+
+}
+
+
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 50% 50%;
+    margin-left: 325px;
+    margin-top: -55px;
+    position: absolute;
+}
+  
+
+.avt2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    margin-top: 20px;
+    
+}
+.o1{
+    background-color: rgba(154, 147, 147, 0.82);
+    width: 200px;
+    height: 35px;
+    border-radius: 50px;
+    border: 0;
+    text-align: center;
+   padding: 10px; 
+    color: black;  
+    margin-left: 20px;
+}
+.o1:hover{
+    background-color: rgb(25, 133, 133);
+}
+.o2{
+    display: flex;
+}
+.o3{
+    width: 900px;
+    height: 540px;
+    border-radius:100% 0  0 0 ;
+    background-color: rgb(22, 22, 22);
+    margin-left: -100px;
+    margin-top: 30px;
+}
+.o4{
+    width: 900px;
+    height: 540px;
+    border-radius:   0 100%  0 0 ;
+    background-color: rgb(255, 255, 255);
+    margin-right: -100px;
+   
+    margin-top: 30px;
+}
+
+
+
