@@ -2,7 +2,7 @@
     margin: 0;
 }
 body{
-    background-image: url(/anh/wp2983693-people-hd-wallpapers.jpg);
+    background-image: url(/wp2983693-people-hd-wallpapers.jpg);
 }
 header{
     font-size: 30px;
@@ -135,5 +135,13 @@ footer{
     color: bisque;
     margin-top: 10px 0 0 20px;
 }
+.inf8{
+    font-size: 18px;
+    margin-top: 10px;
+}
 
-    
+.inf9{
+    width:400px;
+    height: 250px;
+    margin-top: 40px;
+}
